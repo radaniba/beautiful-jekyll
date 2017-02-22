@@ -34,7 +34,7 @@ permalink: /:day/:month/:year/:title/
 
 # How to pick a Data Science book
 
-A couple of months ago I was planning to review only 20 books at once, but when I started writing these lines, I was lost in an endless new hobby, collecting and reading, anything related to data science, and I decided to come back later to this post to write down what I learned (and still learning) from this practice.
+A couple of months ago I was planning to review only 20 books at once, but when I started writing these lines, I was lost in an endless new hobby, collecting and reading, anything related to data science, and I decided to come back later to this post to write down what I learned (and am still learning) from this practice.
 
 <div align="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Working on a mega blog post series reviewing 20 most important books in <a href="https://twitter.com/hashtag/DataScience?src=hash">#DataScience</a></p>&mdash; Radhouane Aniba (@radaniba) <a href="https://twitter.com/radaniba/status/703423201326403585">February 27, 2016</a></blockquote>
@@ -56,7 +56,7 @@ This is a very quick checklist that will help you choose an interesting book, or
 
 - **Check the author's bio** : It can help to know the author(s), knowing the background of who wrote the book, his research, and main interests, is already an indication of the details level in the book. But, new authors deserve a chance too, don't make this point crucial.
 - **Read the introduction carefully** : Most of the books online display the introduction for free. Don't hesitate to download a preview and read the introductory pages carefully. Most of the time, authors describe not only the context in which the book was written but also the details of the different chapters.
-- **Favour books with independent chapters** : This is a personal preference, a technical book is not a fiction or a romance. Although it is important to learn gradually from a book, from the simpler aspects to the more complicated ones, choosing a book with more or less independent chapters will give you freedom on the structure you want to have to learn something, a book outline is the author's personal perspective which is certainly helpful, but it was designed with a specific mindset that is not necessarily yours so you might keep some distance between the way you want to learn something and what others think.
+- **Favor books with independent chapters** : This is a personal preference, a technical book is not a fiction or a romance. Although it is important to learn gradually from a book, from the simpler aspects to the more complicated ones, choosing a book with more or less independent chapters will give you freedom on the structure you want to have to learn something, a book outline is the author's personal perspective which is certainly helpful, but it was designed with a specific mindset that is not necessarily yours so you might keep some distance between the way you want to learn something and what others think.
 - **Do you have a bookstore close by ?** : Although you can find everything online nowadays, going at a bookstore will give you the chance to physically get in contact with what you need. Sometimes It happens that I just change my mind and get another book when I browse rapidly some key chapters of interests and get the feeling that it is not what I actually need.
 - **Read online reviews** : and don't trust all of them, remember that reviews are subjective, but the online reviews will give you a general opinion of what people think of the book you want to get, and as we say: don't judge a book by its cover :) I usually trust Amazon's reviews, people leave insightful comments and criticisms to the authors and usually raise valid points that are worth taking in consideration.
 
@@ -132,7 +132,7 @@ Communicating science is very challenging, We can't please everyone, and it real
 ![length](/img/20170220/style.png)
 
 ## Structure
-Teaching data science is not simple, and at the same time it's not that difficult neither, we only need to know how to structure the content in order to ensure that the information is being retained. In that respect, there are may be two main ways of doing this. We can have an **independent modules** organization, where we talk about different concepts that are not really related but could be part of a data science analysis pipeline, dealing with these concepts separately does not require an order. In the other hand, one can structure the content in an **incremental order** of complexity, like we see in most books that teach, for example, regression, where they start by the most basic forms of regression and adding more and more variations and level of complexity of the most elaborate forms of regression.
+Teaching data science is not simple, and at the same time it's not that difficult, we only need to know how to structure the content in order to ensure that the information is being retained. In that respect, there are may be two main ways of doing this. We can have an **independent modules** organization, where we talk about different concepts that are not really related but could be part of a data science analysis pipeline, dealing with these concepts separately does not require an order. In the other hand, one can structure the content in an **incremental order** of complexity, like we see in most books that teach, for example, regression, where they start by the most basic forms of regression and adding more and more variations and level of complexity of the most elaborate forms of regression.
 Here is my ranking for the top 5 books of this list  
 
 ![length](/img/20170220/structure.png)
@@ -144,7 +144,7 @@ This is only a very subjective view that I have from the different resources in 
 
 
 ### Judging the book by its cover?
-Most people use this expression to tell you implicitly to not to. I won't do the same. Do we judge a book by its cover? definitely, we need to, we have to. Of course, I am not talking about the book external cover, but what you can read in the preface, in the first introductory paragraphs of the book, where authors most of the time give details about the different chapters being discussed in the book. Sometimes, authors deviate from their initial vision of what their books will look like at the end, which is normal, the field is moving fast, and so the thoughts. A good book respects always the initial vision.
+Most people use this expression to tell you implicitly not to. I won't do the same. Do we judge a book by its cover? definitely, we need to, we have to. Of course, I am not talking about the book external cover, but what you can read in the preface, in the first introductory paragraphs of the book, where authors most of the time give details about the different chapters being discussed in the book. Sometimes, authors deviate from their initial vision of what their books will look like at the end, which is normal, the field is moving fast, and so the thoughts. A good book respects always the initial vision.
 
 ### Depth of explanation
 How far can the authors go in their explanations? I think this is really related to a lot of points I've been talking about in this post. I think there is a correlation between this, the content, the structure and the length.
@@ -161,6 +161,6 @@ Content classification meets exactly the structure for my own taste, again this 
 
 # Conclusion
 
-This is a very subjective classification, I might come back and edit/append this post as I am continuing reading more books, **if you have books suggestions please comment below and let's discuss**
+This is a very subjective classification, I might come back and edit/append this post as I am continuing to read more books, **if you have a book suggestion please comment below and let's discuss**
 
-By the time of finishing this post and editing the content my library is already 20% bigger then when I started writing, so I think I will be editing this post quite often, make sure you subscribe below in order to keep informed about new reviews/additions.
+By the time I finished this post and edited the content, my library was already 20% bigger then when I started writing, so I think I will be editing this post quite often, make sure you subscribe below in order to keep informed about new reviews/additions.
